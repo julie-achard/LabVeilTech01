@@ -1,6 +1,6 @@
 ---
 title: À propos
-featured_image: ""
+featured_image: "Ikigai_Julie.png"
 omit_header_text: true
 description: Laissez-nous un message!
 type: page
@@ -13,7 +13,7 @@ Comme on peut le voir ci-dessous, mon ikigai a été effectué automatiquement �
 
 ## Mon Ikigai
 
-<img src="/images/IKI.jpg" alt="Ikigai" width="50%"/>
+![Ikigai](/images/Ikigai_Julie.png)
 
 ## Mon Ikigai détaillé
 
